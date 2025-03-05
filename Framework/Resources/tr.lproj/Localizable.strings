@@ -1,0 +1,47 @@
+/* Cancel action button in recording state */
+"Cancel" = "İptal";
+
+/* Tooltip for non-empty shortcut button */
+"Click to record new shortcut" = "Yeni kısayol kaydetmek için tıklayın";
+
+/* Tooltip for hint button near the non-empty shortcut */
+"Delete shortcut" = "Kısayolu sil";
+
+/* VoiceOver title */
+"keyboard shortcut" = "klavye kısayolu";
+
+/* Alert button when shortcut is already used */
+"OK" = "Tamam";
+
+/* Empty shortcut button in normal state */
+"Record Shortcut" = "Kısayol Kaydet";
+
+/* VoiceOver: Shortcut cleared */
+"Shortcut cleared" = "Kısayol temizlendi";
+
+/* VoiceOver: Shortcut set */
+"Shortcut set" = "Kısayol ayarlandı";
+
+/* Shortcut glyph name for SPACE key */
+"Space" = "Boşluk";
+
+/* Title for alert when shortcut is already used */
+"The key combination %@ cannot be used" = "%@ tuş kombinasyonu kullanılamaz";
+
+/* Message for alert when shortcut is already used by the system */
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Bu kombinasyon sistem genelinde bir klavye kısayolu tarafından kullanıldığı için kullanılamaz.\nBu tuş kombinasyonunu gerçekten kullanmak istiyorsanız, çoğu kısayol Sistem Tercihleri'ndeki Klavye ve Fare panelinden değiştirilebilir.";
+
+/* Message for alert when shortcut is already used */
+"This shortcut cannot be used because it is already used by the menu item '%@'." = "Bu kısayol '%@' menü öğesi tarafından kullanıldığı için kullanılamaz.";
+
+/* VoiceOver shortcut help */
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Yeni bir kısayol kaydetmek için bu düğmeye tıklayın, ardından yeni kısayolu yazın veya mevcut bir kısayolu temizlemek için sil tuşuna basın.";
+
+/* Non-empty shortcut button in recording state */
+"Type New Shortcut" = "Yeni Kısayol Yazın";
+
+/* Empty shortcut button in recording state */
+"Type Shortcut" = "Kısayol Yazın";
+
+/* Cancel action button for non-empty shortcut in recording state */
+"Use Old Shortcut" = "Eski Kısayolu Kullan";
