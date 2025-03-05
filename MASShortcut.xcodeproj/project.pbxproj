@@ -124,6 +124,7 @@
 		0DC2F19619938EFA003A0131 /* MASShortcutView+Bindings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASShortcutView+Bindings.h"; sourceTree = "<group>"; };
 		0DC2F19719938EFA003A0131 /* MASShortcutView+Bindings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MASShortcutView+Bindings.m"; sourceTree = "<group>"; };
 		0DEDAA021C6BB479001605F5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4523CD3E2D787552003A697A /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		50C888EF26F8E2FE0086EB9A /* MASShortcutViewButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASShortcutViewButtonCell.h; sourceTree = "<group>"; };
 		50C888F026F8E2FE0086EB9A /* MASShortcutViewButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASShortcutViewButtonCell.m; sourceTree = "<group>"; };
 		57B25C2D1E78E06D0061A9EC /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -419,6 +420,7 @@
 				pt,
 				sv,
 				Base,
+				tr,
 			);
 			mainGroup = 0D827CC91990D4420010B8EF;
 			productRefGroup = 0D827CD41990D4420010B8EF /* Products */;
@@ -527,6 +529,7 @@
 				6EA603511CBF823600A3ED9C /* nl */,
 				57B25C2D1E78E06D0061A9EC /* pt */,
 				FDFF016F20CB2FB400CC88F3 /* sv */,
+				4523CD3E2D787552003A697A /* tr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
